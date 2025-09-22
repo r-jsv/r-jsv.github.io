@@ -1,4 +1,6 @@
-# 4 phases to build an evidence-based organization using experiments
+> Hi, I'm Robin 👋 An experienced full-stack staff software engineer (and [published author](https://link.springer.com/chapter/10.1007/978-3-030-35333-9_37)) with experience in building in-house exp platforms & experimentation culture. Let's talk evidence-based decision making on [LinkedIn](https://www.linkedin.com/in/robin-sveningson-11005793/) or [email](robin@empiriska.se)
+
+This is a practical guide on how to evolve your opinion-based organization to an organization that uses experimentation & validated learnings for decision making. This guide is based on practical experience, 25+ research papers and many decades of learnings published by big-tech like Facebook, Google, Netflix etc. From starting the first experiments to operational excellence - for many small- to mid-scale software organization this is the natural next step for growth. 
 
 ## Phase 1 - Buy-in & core team (first 3-6 months):
 - Secure buy-in from execs & senior leadership
