@@ -74,4 +74,37 @@
 - Rewards & performance review process based on validated metrics movement
 - Metric trees & tiers, use experiment results to prove causality
 
-### Sources
+## Highlighted sources
+* Online Controlled Experiments at Large Scale - Kohavi et al - [link](https://dl.acm.org/doi/10.1145/2487575.2488217)
+* The Evolution of Continuous Experimentation in Software Product Development: From Data to a Data-Driven Organization at Scale - Fabijan et al - [link](https://exp-platform.com/Documents/2017-05%20ICSE2017_EvolutionOfExP.pdf)
+* The Anatomy of a Large-Scale Experimentation Platform - Gupta et al - [link](https://www.researchgate.net/profile/Aleksander-Fabijan/publication/324889185_The_Anatomy_of_a_Large-Scale_Online_Experimentation_Platform/links/5ae96411a6fdcc03cd8fa431/The-Anatomy-of-a-Large-Scale-Online-Experimentation-Platform.pdf)
+* Introducing Continuous Experimentation in Large Software-Intensive Product and Service Organisations - Yaman et al - [link](https://www.sciencedirect.com/science/article/abs/pii/S0164121217301474)
+
+## All sources
+* Leaky Abstraction In Online Experimentation Platforms: A Conceptual Framework To Categorize Common Challenges - Kluck, Vermeer - [link](https://www.researchgate.net/publication/320180177_Leaky_Abstraction_In_Online_Experimentation_Platforms_A_Conceptual_Framework_To_Categorize_Common_Challenges)
+* Experiment reporting at AirBnb - AirBnb - [link](https://medium.com/airbnb-engineering/experiment-reporting-framework-4e3fcd29e6c0#.cbl72jip2)
+* Democratizing online controlled experiments at Booking.com - Kaufman, Pitchfork, Vermeer - [link](https://www.researchgate.net/publication/320582817_Democratizing_online_controlled_experiments_at_Bookingcom)
+* Engineering for a Science-Centric Experimentation Platform - Diamantopoulos et al - [link](https://research.chalmers.se/publication/519813/file/519813_Fulltext.pdf)
+* How A/B Tests Could Go Wrong: Automatic Diagnosis of Invalid Online Experiments - Chen, Liu, Xu - [link](https://dl.acm.org/doi/10.1145/3289600.3291000)
+* From Infrastructure to Culture: A/B Testing Challenges in Large Scale Social Networks - Xu et al - [link](https://dl.acm.org/doi/10.1145/2783258.2788602)
+* It takes a Flywheel to Fly: Kickstarting and Keeping the A/B testing Momentum - Fabijan et al - [link](https://www.microsoft.com/en-us/research/articles/it-takes-a-flywheel-to-fly-kickstarting-and-keeping-the-a-b-testing-momentum/)
+* Seven Rules of Thumb for Website Experimenters - Kohavi et al - [link](https://exp-platform.com/rules-of-thumb/)
+* Pitfalls of Long-Term Online Controlled Experiments - Dmitriev et al - [link](https://www.exp-platform.com/Documents/2016%20IEEEBigDataLongRunningControlledExperiments.pdf)
+* The Evolution of Continuous Experimentation in Software Product Development: From Data to a Data-Driven Organization at Scale - Fabijan et al - [link](https://exp-platform.com/Documents/2017-05%20ICSE2017_EvolutionOfExP.pdf)
+* Introducing Continuous Experimentation in Large Software-Intensive Product and Service Organisations - Yaman et al - [link](https://www.sciencedirect.com/science/article/abs/pii/S0164121217301474)
+* The Benefits of Controlled Experimentation at Scale - Fabijan et al - [link](https://exp-platform.com/Documents/2017-08%20BenefitsOfExPScaleSEAA.pdf)
+* The Anatomy of a Large-Scale Experimentation Platform - Gupta et al - [link](https://www.researchgate.net/profile/Aleksander-Fabijan/publication/324889185_The_Anatomy_of_a_Large-Scale_Online_Experimentation_Platform/links/5ae96411a6fdcc03cd8fa431/The-Anatomy-of-a-Large-Scale-Online-Experimentation-Platform.pdf)
+* Decision Making at Netflix - Netflix - [link](https://netflixtechblog.com/decision-making-at-netflix-33065fa06481)
+* Exp platform at Zalando - Huang - [link](https://engineering.zalando.com/posts/2021/01/experimentation-platform-part1.html)
+* How We Reimagined A/B Testing at Squarespace - Absher et al - [link](https://engineering.squarespace.com/blog/2021/how-we-reimagined-ab-testing-at-squarespace)
+* Why we use experimentation quality as the main KPI for our experimentation platform - Perrin et al - [link](https://medium.com/booking-product/why-we-use-experimentation-quality-as-the-main-kpi-for-our-experimentation-platform-f4c1ce381b81)
+* Online Controlled Experiments at Large Scale - Kohavi et al - [link](https://dl.acm.org/doi/10.1145/2487575.2488217)
+* Designing and Deploying Online Field Experiments - Bakshy et al - [link](https://dl.acm.org/doi/10.1145/2566486.2567967)
+* Overlapping Experiment Infrastructure: More, Better, Faster Experimentation - Tang et al - [link](https://static.googleusercontent.com/media/research.google.com/sv//pubs/archive/36500.pdf)
+* Building Blocks for Continuous Experimentation - Fagerholm et al - [link](https://dl.acm.org/doi/10.1145/2593812.2593816)
+* The RIGHT Model for Continuous Experimentation - Fagerholm et al - [link](https://www.sciencedirect.com/science/article/abs/pii/S0164121216300024)
+* Transitioning Towards Continuous Experimentation in a Large Software Product and Service Development Organisation – A Case Study - Yaman et al - [link](https://www.researchgate.net/publication/307994703_Transitioning_Towards_Continuous_Experimentation_in_a_Large_Software_Product_and_Service_Development_Organisation_-_A_Case_Study)
+* Success stories from a democratized exp platform - Forsell et al - [link](https://www.researchgate.net/publication/347515831_Success_Stories_from_a_Democratized_Experimentation_Platform)
+* Using data to build better products - Bosch - [link](https://janbosch.com/blog/wp-content/uploads/2024/06/UsingDataToBuildBetterProducts-SemiFinal.pdf)
+* Effective online controlled experiment analysis - Fabijan et al - [link](https://www.researchgate.net/publication/327350401_Effective_Online_Controlled_Experiment_Analysis_at_Large_Scale)
+
