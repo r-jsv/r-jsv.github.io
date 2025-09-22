@@ -1,6 +1,6 @@
 > Hi, I'm Robin 👋 An experienced full-stack staff software engineer (and [published author](https://link.springer.com/chapter/10.1007/978-3-030-35333-9_37)) with experience in building in-house exp platforms & experimentation culture. Let's talk evidence-based decision making on [LinkedIn](https://www.linkedin.com/in/robin-sveningson-11005793/) or [email](mailto:robin@empiriska.se)
 
-This is a practical guide on how to evolve your opinion-based organization to an organization that uses experimentation & validated learnings for decision making. This guide is based on practical experience, 25+ research papers and many decades of learnings published by big-tech like Facebook, Google, Netflix etc. From starting the first experiments to operational excellence - for many small- to mid-scale software organization this is the natural next step for growth. 
+This is a practical guide on how to evolve your opinion-based organization to an organization that uses experimentation & validated learnings for decision making. This guide is based on practical experience, 25+ research papers and many decades of learnings published by big-tech (Facebook, Google, Netflix etc). From manually running the first few experiments to operational excellence - this is the natural next step for many small- to mid-scale software organization to achieve growth. 
 
 ## Phase 1 - Buy-in & core team (first 3-6 months):
 - Secure buy-in from execs & senior leadership
@@ -23,7 +23,7 @@ This is a practical guide on how to evolve your opinion-based organization to an
 
 ## Phase 3 - Validated learnings (year 2-3)
 
-[Data]
+**[Data]**
 - Evolve high-quality & standardized data-pipelines (e.g. offline metric store)
 - Collect 4 types of metrics: success, guardrail, data quality & debug metrics
 - Handle late-arriving & incomplete data
@@ -31,11 +31,11 @@ This is a practical guide on how to evolve your opinion-based organization to an
 - Build LTV metrics
 - Pipeline for qualitative user insights to generate experiment hypotheses
 
-[QA & releases]
+**[QA & releases]**
 - Ensure instant product deployments, fast releases & extensive monitoring
 - Work with QA to prevent product combinatorics problem
 
-[Tooling]
+**[Tooling]**
 - Democratise decision-making of experimentation methodology
 - Statistical framework: colliding experiments, carry-over effects, A/A, novelty effects, salted randomization, Bonferroni, SRM, ...
 - User attribution targeting
@@ -54,7 +54,7 @@ This is a practical guide on how to evolve your opinion-based organization to an
 - Enable data-scientist auditing
 - Visualise ROI + cost
 
-[Culture]
+**[Culture]**
 - Survey state of experimentation in different teams
 - Company-wide education: Workshops, demos, onboarding, checklists, problem-solving guides, how-tos
 - Teach Twyman’s Law (too good to be true = not true), statistical foundations, common pitfalls etc.
